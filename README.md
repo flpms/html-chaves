@@ -10,7 +10,7 @@ First in your html you have define a field to receive data.
 <div>{{name}}</div>
 ```
 
-In your javascript you pass a valeu to `{{name}}`
+In your javascript you pass a value to `{{name}}`
 
  ```javascript
 
