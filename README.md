@@ -14,7 +14,7 @@ In your javascript you pass a valeu to `{{name}}`
 
  ```javascript
 
-chaves('Filipe');
+chaves.set('name', 'Filipe');
 
  ```
 
